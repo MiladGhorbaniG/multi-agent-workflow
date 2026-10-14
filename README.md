@@ -107,4 +107,5 @@ GitHub Actions runs Ruff and pytest. The suite uses `MockLLM` only.
 
 - [BookNook shelf assistant](https://github.com/MiladGhorbaniG/rag-docs-assistant) — retrieval chat over shelving notes, with citations
 - [BookNook Telegram desk](https://github.com/MiladGhorbaniG/telegram-miniapp-starter) — Mini App, mock membership, and FAQ bot
+- [BookNook membership desk](https://github.com/MiladGhorbaniG/booknook-crm) — CRM pipeline, shared job queue, and note-grounded follow-ups
 - [Introduction to carried out projects](https://github.com/MiladGhorbaniG/Introduction-to-carried-out-projects) — earlier work, plus the other public repositories
