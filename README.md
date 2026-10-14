@@ -102,3 +102,9 @@ pytest
 ```
 
 GitHub Actions runs Ruff and pytest. The suite uses `MockLLM` only.
+
+## Related projects
+
+- [BookNook shelf assistant](https://github.com/MiladGhorbaniG/rag-docs-assistant) — retrieval chat over shelving notes, with citations
+- [BookNook Telegram desk](https://github.com/MiladGhorbaniG/telegram-miniapp-starter) — Mini App, mock membership, and FAQ bot
+- [Introduction to carried out projects](https://github.com/MiladGhorbaniG/Introduction-to-carried-out-projects) — earlier work, plus the other public repositories
