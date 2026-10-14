@@ -1,0 +1,12 @@
+services:
+  api:
+    build: .
+    environment:
+      LLM_PROVIDER: ${LLM_PROVIDER:-mock}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_BASE_URL: ${OPENAI_BASE_URL:-https://api.openai.com/v1}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+      DATA_DIR: /app/sample_data
+      MAX_REVISIONS: "2"
+    ports:
+      - "8010:8000"
